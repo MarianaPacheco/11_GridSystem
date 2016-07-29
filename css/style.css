@@ -1,0 +1,130 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+a{
+	text-decoration: none;	
+	list-style-type: none; 
+	color: #369;
+}
+
+/* a:visited{
+	color:#FFFFFF;
+} */
+
+.logo{
+	margin: 20px 0px 20px 30px;
+	width: 40%;
+	height: 30%;
+}
+
+li{
+	margin: 60px 0px 0px 20px;
+	display: inline-block;
+	color: #FFFFFF;
+}
+
+#bannergris{
+	background-color: #484848;
+} 
+
+#episodes{
+	font-size: 16px;
+	display: inline;
+	padding: 0px 0px;
+}
+
+#bannerslide{
+	background-color: #eee;
+	padding: 10px 60px 20px 30px;
+}
+
+.borde{
+	background: #fff;
+	padding: 3px;
+	border: solid 1px #ccc;
+}
+
+img{
+	steady;
+}
+
+.imageslide{
+	height: 210px;
+	width: 210px;
+	margin: 10px;
+}
+
+h4{
+	text-align: center;
+}
+
+.imagearticle{
+	height: 110px;
+	width: 110px;
+	margin: 10px 10px 0px 10px;	
+}
+
+h5{
+	text-align: center;
+	text-align: left;
+	margin-left: 15px;
+}
+
+p{
+	font-size: 16px;
+	color:#555;
+}
+
+hr{
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+
+.asideleft{
+	padding: 20px 0px 0px 0px;
+	margin: 0px;
+}
+
+.legend{
+	padding: 2px 0px 0px 0px;
+}
+
+.icon{
+	width: 10%;
+	height: 10%;
+}
+
+.textaside{
+	font-size: 14px;
+	padding: 5px;
+}
+
+.grisbottom{
+	background-color: #484848;
+	padding: 25px;
+	margin: 20px 10px 10px 10px;
+} 
+
+#pfooter{
+	color: #FFFFFF;
+}
+
+.lifooter{
+	margin: 15px 0px 0px 15px;
+	display: inline-block;
+	color: #CCC;
+	font-size: 12px;
+}
+
+#position{
+	text-align: center; 
+}
+
+#copyright{
+	font-size: 10px;
+	color: #999;
+	text-align: center;
+	padding:15px;	
+}
+
